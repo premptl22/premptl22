@@ -1,4 +1,4 @@
-# Hello, I'm Patel Prem 👋
+# Hello, I'm Prem 👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Patel+Prem+%7C+Software+Developer)](https://git.io/typing-svg)
 
