@@ -18,4 +18,4 @@ I'm a passionate developer with a love for creating innovative solutions and lea
 - [Twitter](https://x.com/prem_ptl22)
 - [Instagram](https://www.instagram.com/patelprem_2204/)
 
-![Visitor Count](https://profile-counter.glitch.me/premptk2204/count.svg)https://readme-typing-svg.herokuapp.com/demo/?lines=Patel+Prem+%7C+Software+Developer
+![Visitor Count](https://profile-counter.glitch.me/premptk2204/count.svg)
