@@ -14,14 +14,8 @@ I'm a passionate developer with a love for creating innovative solutions and lea
 - [TravelBookingGUI-repo](https://github.com/premptl22/TarvelBookingGUI-repo) : TravelBooking system(GUI-based) using the concept of Java Programming 
 
 ## Get in Touch
-<a href="https://www.linkedin.com/in/johndoe" target="_blank">
-  <img src="https://linkedin.com/in/prem-patel-50a59b27a/" alt="LinkedIn" width="30" height="30">
-</a>
-<a href="https://twitter.com/johndoe" target="_blank">
-  <img src="https://x.com/prem_ptl22" alt="Twitter" width="30" height="30">
-</a>
-<a href="https://instagram.com/johndoe" target="_blank">
-  <img src="https://www.instagram.com/patelprem_2204/" alt="Instagram" width="30" height="30">
-</a>
+- [LinkedIn](https://linkedin.com/in/prem-patel-50a59b27a/)
+- [Twitter](https://x.com/prem_ptl22)
+- [Instagram](https://www.instagram.com/patelprem_2204/)
 
 ![Visitor Count](https://profile-counter.glitch.me/premptk2204/count.svg)https://readme-typing-svg.herokuapp.com/demo/?lines=Patel+Prem+%7C+Software+Developer
