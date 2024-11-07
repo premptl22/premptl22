@@ -11,8 +11,9 @@ I'm a passionate developer with a love for creating innovative solutions and lea
 - Tools: Git, Docker, Jenkins
 
 ## Projects
-- [TravelBookingGUI-repo](https://github.com/premptl22/TarvelBookingGUI-repo) : TravelBooking system(GUI-based) using the concept of Java Programming
+- [TravelBookingGUI-repo](https://github.com/premptl22/TarvelBookingGUI-repo) : TravelBooking system using the concept of Java Programming(GUI-based)
 - [MakeItUpMoments](https://github.com/premptl22/MakeItUpMoments) : Event Management website using the concept of HTML & CSS
+- [TicTacToe-repo](https://github.com/premptl22/TicTacToe-repo) : Tic-Tac-Toe Game using the Java Programming(GUI-based)
 
 ## Get in Touch
 - [LinkedIn](https://linkedin.com/in/prem-patel-50a59b27a/)
