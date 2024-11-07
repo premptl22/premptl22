@@ -7,8 +7,8 @@ I'm a passionate developer with a love for creating innovative solutions and lea
 
 ## Skills
 - Languages: JavaScript, Java, C, C++, HTML, CSS
-- Frameworks: React, Node.js, Spring Boot
-- Tools: Git, Docker, Jenkins
+- Frameworks: Node.js, Spring Boot
+- Tools: Git
 
 ## Projects
 - [TravelBookingGUI-repo](https://github.com/premptl22/TarvelBookingGUI-repo) : TravelBooking system using the concept of Java Programming(GUI-based)
