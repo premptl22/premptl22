@@ -6,7 +6,7 @@
 I'm a passionate developer with a love for creating innovative solutions and learning new technologies. 
 
 ## Skills
-- Languages: JavaScript, Python, Java, C, C++, HTML, CSS
+- Languages: JavaScript, Java, C, C++, HTML, CSS
 - Frameworks: React, Node.js, Spring Boot
 - Tools: Git, Docker, Jenkins
 
